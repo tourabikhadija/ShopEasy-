@@ -6,7 +6,7 @@ export default function Footer() {
       
       {/* Logo */}
       <div className="footer-brand">
-        <img src="/logo.png" alt="SERENIA Logo" className="footer-logo" />
+        <img src="/logo.png" alt="SERENIA" className="footer-logo" />
         <span>◆ SERENIA</span>
       </div>
 

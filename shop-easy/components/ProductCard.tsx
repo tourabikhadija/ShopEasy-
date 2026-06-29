@@ -19,7 +19,6 @@ export default function ProductCard({ product }: Props) {
         />
       </div>
       <div className="product-card-body">
-        <p className="product-category">{product.category}</p>
         <h3 className="product-name">{product.name}</h3>
         <div className="product-footer">
           <span className="product-price">{product.price.toLocaleString()} DH</span>
