@@ -24,15 +24,15 @@ export default function Header() {
           </Link>
 
           <Link href="/products" className="nav-link">
-            products
+            Products
           </Link>
 
           <Link href="/about" className="nav-link">
-            about
+            About
           </Link>
            </nav>
            
-          <Link href="/carte" className="nav-cart">
+          <Link href="/cart" className="nav-cart">
           <Image
             src="/carte.png"
             alt="carte"
